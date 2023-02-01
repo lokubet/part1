@@ -6,8 +6,6 @@ const Header = (props) => {
   )
 }
 
-// 12342567
-
 const Part = (props) => {
   return(
     <div>
